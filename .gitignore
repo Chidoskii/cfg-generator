@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Generated CFG files
+/comprehensive_cfg
+/comprehensive_cfg.*
+/read_write_cfg
+/read_write_cfg.*
+/cfg_output
+/cfg_output.*
+
+# Graphviz files
+*.gv
+*.dot
+
+# Temporary files
+*.log
+*.tmp
+
+# Submission archives
+*.zip
