@@ -9,6 +9,9 @@ venv/
 .vscode/
 .idea/
 
+# Intentionally invalid test files
+/examples/invalid.cpp
+
 # Generated CFG files
 /comprehensive_cfg
 /comprehensive_cfg.*
